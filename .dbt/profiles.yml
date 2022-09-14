@@ -1,0 +1,14 @@
+user:
+  target: datawarehouse
+  outputs:
+    datawarehouse:
+      type: postgres
+      host: #hostname
+      user: #username
+      password: #password
+      port: #port number
+      dbname: #database name
+      schema: public
+      threads: 10
+      keepalives_idle: 0 # default 0, indicating the system default
+#      sslmode: disable
