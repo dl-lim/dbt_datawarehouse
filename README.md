@@ -55,4 +55,4 @@ or whichever desired tag
 
 `/archive/` is where superseded SQL files go for reference.
 
-This repo is uploaded with full permission from the owner and is free for use and modification
+This repo is uploaded with full permission from the owner and is free for use and modification, please notify me.
